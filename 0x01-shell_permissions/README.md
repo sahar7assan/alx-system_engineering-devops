@@ -1,1 +1,1 @@
-script to switch to new user
+script print user id
