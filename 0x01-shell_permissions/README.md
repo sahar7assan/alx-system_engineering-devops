@@ -1,1 +1,1 @@
-script print user id
+script print groups
