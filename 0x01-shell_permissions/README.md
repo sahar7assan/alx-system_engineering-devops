@@ -1,1 +1,1 @@
-script change user owner
+script create empty file
